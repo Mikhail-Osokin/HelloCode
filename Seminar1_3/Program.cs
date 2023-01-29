@@ -4,27 +4,27 @@ if (number==1)
 {
     Console.WriteLine("Сегодня понедельник");
 }
-if (number==2)
+else if (number==2)
 {
     Console.WriteLine("Сегодня вторник");
 }
-if (number==3)
+else if (number==3)
 {
     Console.WriteLine("Сегодня среда");
 }
-if (number==4)
+else if (number==4)
 {
     Console.WriteLine("Сегодня четверг");
 }
-if (number==5)
+else if (number==5)
 {
     Console.WriteLine("Сегодня пятница");
 }
-if (number==6)
+else if (number==6)
 {
     Console.WriteLine("Сегодня суббота");
 }
-if (number==7)
+else if (number==7)
 {
     Console.WriteLine("Сегодня воскресенье");
 }
