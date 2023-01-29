@@ -28,5 +28,9 @@ if (number==7)
 {
     Console.WriteLine("Сегодня воскресенье");
 }
+else
+{
+    Console.WriteLine("Вы ввели число не от одного до семи");
+}
 
 
